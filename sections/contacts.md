@@ -58,5 +58,5 @@ Get contact
       <name>Partner</name>
     </label>
   </labels>
-</contacts>
+</contact>
 ```
